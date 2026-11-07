@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/beeware/rubicon-objc/commit/7f9d972a5afef0692ab7e359e8e0ae69610e119e",
       "git:hexsha": "7f9d972a5afef0692ab7e359e8e0ae69610e119e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T11:53:57.358937+00:00"
     },
     {
       "@id": "https://repolex.ai/r/beeware/rubicon-objc/commit/16b3db3b0e0c14e135fca7e898a6ad5e53a870ec",
